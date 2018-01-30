@@ -22,5 +22,5 @@ functino iLoveTheBeatles(number) {
   do {
     emptyArray.push("I love the Beatles!");
     i++
-  } while ();
+  } while (i < 15);
 }
